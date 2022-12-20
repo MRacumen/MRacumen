@@ -4,6 +4,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MRacumen&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MRacumen&layout=compact&theme=radical)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MRacumen&langs_count=5&theme=radical)]
 
-<img align="right" alt="Coding" width="400" src="add your link here">
+
